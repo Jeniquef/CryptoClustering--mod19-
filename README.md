@@ -55,11 +55,5 @@ This project aims to analyze cryptocurrency market data using K-Means clustering
   - **Y-axis**: `PC2`
   - Colored by cluster labels and hovered over **coin\_id**.
 
-### 7. Evaluated the Impact of PCA on Clustering
 
-##
-
-##
-
-##
 
